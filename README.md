@@ -62,7 +62,8 @@ We can configure java-tron node IP and port in ``src/main/resources/config.conf`
 ## Wallet-cli supported command list
 
 Following is a list of Tron Wallet-cli commands:
-For more information on a specific command, just type the command on terminal when you start your Wallet.
+For more information on a specific command, just type the command on terminal when you s![Screenshot_20241028-173451](https://github.com/user-attachments/assets/e7631de1-1148-4f72-98e5-323e035ca1cb)
+tart your Wallet.
 
 | [AddTransactionSign](#How-to-use-the-multi-signature-feature-of-wallet-cli) | [ApproveProposal](#Approve--disapprove-a-proposal)  | [AssetIssue](#Issue-trc10-tokens) |
 | :---------:|:---------:|:--------: |
